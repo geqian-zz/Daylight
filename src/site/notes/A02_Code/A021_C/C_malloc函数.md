@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A02_Code/A021_C/C_malloc函数/","tags":["1_AtomNote"]}
+{"aliases":null,"tags":["1_AtomNote"],"number headings":"auto, first-level 1, max 6, A.1.","Created-Date":"2023-09-24 10:28:34","Modified-Date":"2023-09-24 10:31:16","dg-publish":true,"permalink":"/A02_Code/A021_C/C_malloc函数/","dgPassFrontmatter":true}
 ---
 
 
