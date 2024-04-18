@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Dashboard","gardenEntry","gardenEntry"],"number headings":"auto, first-level 1, max 6, A.1.","Created-Date":"2023-07-28 10:39:34","Modified-Date":"2024-03-27 11:23:06","dg-publish":true,"dg-home":true,"permalink":"/Z00_DashBoard/HOME/","dgPassFrontmatter":true}
+{"aliases":null,"tags":["Dashboard","gardenEntry","gardenEntry","gardenEntry"],"number headings":"auto, first-level 1, max 6, A.1.","Created-Date":"2023-07-28 10:39:34","Modified-Date":"2024-03-27 11:23:06","dg-publish":true,"dg-home":true,"permalink":"/Z00_DashBoard/HOME/","dgPassFrontmatter":true}
 ---
 
 
