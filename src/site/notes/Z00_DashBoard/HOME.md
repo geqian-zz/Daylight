@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Z00_DashBoard/HOME/","tags":["Dashboard"]}
+{"aliases":null,"tags":["Dashboard","gardenEntry"],"number headings":"auto, first-level 1, max 6, A.1.","Created-Date":"2023-07-28 10:39:34","Modified-Date":"2024-03-27 11:23:06","dg-publish":true,"dg-home":true,"permalink":"/Z00_DashBoard/HOME/","dgPassFrontmatter":true}
 ---
 
 ```ad-danger
@@ -13,10 +13,10 @@ title:Quick Start
 title:2024 Autumn
 
 
-- [[计算机组织与系统结构]]
+- [[计算机组织与体系结构]]
 - [[操作系统]]
 - [[计算机通信与网络]]
-- [[模拟电子技术基础]]
+- [[模拟电子技术]]
 - [[信号与系统]]
 
 ```
@@ -24,6 +24,7 @@ title:2024 Autumn
 
 # B. Personnal
 - [[Z01_InBox/Note_InBox/My_InBox\|My_InBox]]
+- [[000_Personnal/002_WorkFiles/My_WorkFiles\|My_WorkFiles]]
 - [[000_Personnal/001_Messages/My_Messages\|My_Messages]]
 - [[B01_Books/My_Reading\|My_Reading]]
 - [[C01_Projects/My_Projects\|My_Projects]]
